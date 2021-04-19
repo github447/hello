@@ -1,5 +1,5 @@
 # hello
 hhhhhhhh
-rrrrrrrrpppppppppp
-ooooooooooooo
+rrrrpp
+oooo
 yyyy
